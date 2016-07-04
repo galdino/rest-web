@@ -1,0 +1,2 @@
+br\edu\devmedia\config\ApplicationConfig.class
+br\edu\devmedia\config\CORSResponseFilter.class
